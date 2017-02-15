@@ -34,6 +34,7 @@
  * abstract only, fast translate strict quality contral, and broadcast
   - strict quality contral, need help from professional instructors, i.e. Han and others
   - need to initialize projects for abstract translation.
+  - This step we can require translator's introduction as well.
  * put the translated abstract to our public acount of wechat/QQ/sina and other channels.
   - need help from sales team
  * let each paper has a translator's introduction(This is good for sharing knowledge and will make translators more serious)
