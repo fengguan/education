@@ -29,16 +29,18 @@
  2. if paper quality not good enough, may have negative effect.
 
 #### Improvement ideas
- * adding water print
+ * adding water print(simple change)
   - I have an instruction on group tutorials
- * abstract only, fast translate strict quality contral, and broadcast
+ * abstract only, fast translate strict quality contral, and broadcast(easier for quality contral and broadcast and avoid negative effect of bad translations)
   - strict quality contral, need help from professional instructors, i.e. Han and others
   - need to initialize projects for abstract translation.
   - This step we can require translator's introduction as well.
- * put the translated abstract to our public acount of wechat/QQ/sina and other channels.
+ * put the translated abstract to our public acount of wechat/QQ/sina and other channels.(broudcast our results)
   - need help from sales team
- * let each paper has a translator's introduction(This is good for sharing knowledge and will make translators more serious)
+ * Also let students in QQ/wechat select the favorite paper they want to know details(prepare for research paper class)
+  - also need help from sales team
+ * let each paper has a translator's introduction(This is good for sharing knowledge and will make translators more serious, better for quality contral)
   - I will start with the current paper on my plate.
- * regulate everyone's translation to github
+ * regulate everyone's translation to github (together with broadcasting in wechat/QQ)
   - I can help move the historical translations to github
   - also write instructions for members to construct new paper directories.
