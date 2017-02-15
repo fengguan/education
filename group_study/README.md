@@ -2,9 +2,9 @@
 
 ## JulyEdu Paper translation
  Table of Contents
- 1. [what is the goal of this translation project?](#what-is-the-goal-of-this-translation-project?)
+ 1. [what is the goal of this translation project?](#what-is-the-goal-of-this-translation-project)
  2. [SWOT(strengths, weaknesses, opportunities, and threats)](#swotstrengths-weaknesses-opportunities-and-threats)
- 3. [Improvement ideas](https://github.com/fengguan/education/blob/master/group_study/README.md#improvement-ideas)
+ 3. [Improvement ideas](#improvement-ideas)
 
 #### what is the goal of this translation project?
  * Helping people who don't have or lack the ability to read English papers
