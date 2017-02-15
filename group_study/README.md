@@ -1,6 +1,11 @@
 # Group Study projects
 
 ## JulyEdu Paper translation
+ Table of Contents
+ 1. [what is the goal of this translation project?](#what is the goal of this translation project?)
+ 2. [SWOT(strengths, weaknesses, opportunities, and threats)](#SWOT(strengths, weaknesses, opportunities, and threats))
+ 3. [Improvement ideas](#Improvement ideas)
+
 #### what is the goal of this translation project?
  * Helping people who don't have or lack the ability to read English papers
  * demonstrate JulyEdu's research power
@@ -23,7 +28,7 @@
  1. group member may lose interests as time goes on, 
  2. if paper quality not good enough, may have negative effect.
 
-#### Improvement ideas:
+#### Improvement ideas
  * adding water print
   - I have an instruction on group tutorials
  * abstract only, fast translate strict quality contral, and broadcast
