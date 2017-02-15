@@ -23,7 +23,7 @@
  1. group member may lose interests as time goes on, 
  2. if paper quality not good enough, may have negative effect.
 
-#### improvement suggestions:
+#### Improvement ideas:
  * water print
  * abstract only, fast translate and broadcast
  * put the translated abstract to our public acount of wechat/QQ/sina and other channels.
