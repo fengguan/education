@@ -1,17 +1,29 @@
 # Group Study projects
 
 ## JulyEdu Paper translation
-* what is the goal of this translation project?
+#### what is the goal of this translation project?
  * Helping people who don't have or lack the ability to read English papers
  * demonstrate JulyEdu's research power
  * prepare for Research Paper classes
  * Testing for class-project community
-* SWOT(strengths, weaknesses, opportunities, and threats)
- * strengths: group members are currently active and well organized. We already have roadmap, and enough papers to continue.
- * weakness: lacking of paper quality control, may not able to demonstrate our power, translation is time consuming, not using standard publish venue, not good for broadcast. 
- * opportunities: we may be able to put in source code of algorithms in those paper, and let students/instructors to test and play with(This probabily be the most interesting thing). GitHub as central publish venue.
- * threats: group member may lose interests as time goes on, if paper quality not good enough, may have negative effect.
-* improvement suggestions:
+ 
+#### SWOT(strengths, weaknesses, opportunities, and threats)
+* strengths: 
+ 1. group members are currently active and well organized. 
+ 2. We already have roadmap, and enough papers to continue. 
+ 3. Good Motivate Mechanism.
+* weakness: 
+ 1. lacking of paper quality control
+ 2. translation is time consuming, 
+ 3. not using standard publish venue, not good for broadcast. 
+* opportunities: 
+ 1. we may be able to put in source code of algorithms in those paper, and let students/instructors to test and play with(This probabily be the most interesting thing). 
+ 2. GitHub as central publish venue.
+* threats: 
+ 1. group member may lose interests as time goes on, 
+ 2. if paper quality not good enough, may have negative effect.
+
+#### improvement suggestions:
  * water print
  * abstract only, fast translate and broadcast
  * put the translated abstract to our public acount of wechat/QQ/sina and other channels.
