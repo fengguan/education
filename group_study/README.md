@@ -25,7 +25,7 @@
 
 #### Improvement ideas:
  * water print
- * abstract only, fast translate and broadcast
+ * abstract only, fast translate strict quality contral, and broadcast
  * put the translated abstract to our public acount of wechat/QQ/sina and other channels.
  * let each paper has a translator's introduction(This is good for share knowledge and will make translators more serious)
  * regulate everyone's translation to github
