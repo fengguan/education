@@ -23,7 +23,7 @@
  3. 翻译文章目前没有有效使用正式发布的渠道，这不利于我们工作成果的传播. 
 * 机会: 
  1. 我们有可能借翻译的机会把每一篇精翻的文章都配备相应的代码库，以供学员与讲师进行测试与使用，推动七月社区建设，为VIP会员提供独一无二的学习与开发平台(这可能是最有意思的事情). 
- 2. 可以有效利用GitHub平台改善目前的文章发布情况.
+ 2. 可以有效利用[GitHub](https://github.com/JulyEdu-PaperTranslation/DeepLearning)平台改善目前的文章发布情况.
 * 威胁: 
  1. 翻译组成员可能慢慢失去激情 
  2. 如果文章翻译质量得不到保障，在宣传过程中可能会对七月在线产生负面影响.
@@ -40,8 +40,8 @@
 * **通过QQ/wechat等渠道中调动学员来选择最想看到完整翻译的文章**--(为论文班的选材打好基础).
  - 同样需要宣传团队同事的帮助
 * **每篇翻译文章要求提供翻译者用自己的话写的总结和介绍**--(这不但有利于读者体验，同时可以让翻译者自动对文章进行整体性的思考，进而间接提高翻译质量).
- - 我会用手上正在翻译的文章作为例子，提供一个翻译者的注释.
-* **把所有的翻译文章都集中发布在GitHub上面**--(给QQ/wechat等渠道的宣传提供方便，也同时完成翻译文章的发布).
- - 我可以和其他几位组员把前几轮的翻译文章发布到github上面
+ - 我会用手上正在翻译的文章作为[例子](https://github.com/JulyEdu-PaperTranslation/DeepLearning#conditional-generative-adversarial-networks)，提供一个翻译者的注释.
+* **把所有的翻译文章都集中发布在[GitHub](https://github.com/JulyEdu-PaperTranslation/DeepLearning)上面**--(给QQ/wechat等渠道的宣传提供方便，也同时完成翻译文章的发布).
+ - 我可以和其他几位组员把前几轮的翻译文章发布到[github](https://github.com/JulyEdu-PaperTranslation/DeepLearning)上面
  - 并编辑详细指南帮助翻译组其他成员进文章发布
   
