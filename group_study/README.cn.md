@@ -4,7 +4,7 @@
   目录
  1. [翻译组的目标是什么?](#翻译组希望达到的目标是什么)
  2. [强弱危机分析(SWOT)](#强弱危机分析swot)
- 3. [Improvement ideas](#improvement-ideas)
+ 3. [改进反感](#改进方案)
 
 #### 翻译组希望达到的目标是什么?
  * 帮助欠缺或不具备英语阅读能力的朋友深入了解最新的科研成果
@@ -28,19 +28,20 @@
  1. 翻译组成员可能慢慢失去激情 
  2. 如果文章翻译质量得不到保障，在宣传过程中可能会对七月在线产生负面影响.
 
-#### Improvement ideas
+#### 改进方案
  * **翻译文章加七月在线水印**--(简单改进)
   - 翻译组的指南中的[加水印介绍](https://github.com/JulyEdu-PaperTranslation/Tutorial/blob/master/arXiv_paper_translation.md#latex-配置)
- * **abstract only, fast translate strict quality contral, and broadcast**--(easier for quality contral and broadcast and avoid negative effect of bad translations)
-  - strict quality contral, need help from professional instructors, i.e. Han and others
-  - need to initialize projects for abstract translation.
-  - This step we can require translator's introduction as well.
- * **put the translated abstract to our public acount of wechat/QQ/sina and other channels**--(broudcast our results)
-  - need help from sales team
- * **Also let students in QQ/wechat select the favorite paper they want to know details**--(prepare for research paper class)
-  - also need help from sales team
- * **let each paper has a translator's introduction**--(This is good for sharing knowledge and will make translators more serious, better for quality contral)
-  - I will start with the current paper on my plate.
- * **merge all translation to github**--(together with broadcasting in wechat/QQ)
-  - I can help move the historical translations to github
-  - also write instructions for members to construct new paper directories.
+ * **快速且高质量地翻译一批文章的绪论部分并进行宣传**--(只翻译绪论容易控制翻译质量，而快速翻译大量文章有助于宣传)
+  - 质量控制需要专业讲师的更多帮助
+  - 需要开启大量翻译绪论的计划
+  - 这一步中也可以适当要求翻译者在绪论下提供用自己的话写的文章介绍(译者注).
+ * **在wechat/QQ/sina等等渠道中对绪论翻译进行宣传**--(传播我们工作的成果)
+  - 需要宣传团队同事的帮助
+ * **通过QQ/wechat等渠道中调动学员来选择最想看到完整翻译的文章**--(为论文班的选材打好基础)
+  - 同样需要宣传团队同事的帮助
+ * **每篇翻译文章要求提供翻译者用自己的话写的总结和介绍**--(这不但有利于读者体验，同时可以让翻译者自动对文章进行整体性的思考，进而间接提高翻译质量)
+  - 我会用手上正在翻译的文章作为例子，提供一个翻译者的注释.
+ * **把所有的翻译文章都集中发布在GitHub上面**--(给QQ/wechat等渠道的宣传提供方便，也同时完成翻译文章的发布)
+  - 我可以和其他几位组员把前几轮的翻译文章发布到github上面
+  - 并编辑详细指南帮助翻译组其他成员进文章发布
+  
