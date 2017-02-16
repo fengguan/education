@@ -30,11 +30,11 @@
 
 #### 改进方案
  * **翻译文章加七月在线水印**--(简单改进)
-  - 翻译组的指南中的[加水印介绍](https://github.com/JulyEdu-PaperTranslation/Tutorial/blob/master/arXiv_paper_translation.md#latex-配置)
+  * 翻译组的指南中的[加水印介绍](https://github.com/JulyEdu-PaperTranslation/Tutorial/blob/master/arXiv_paper_translation.md#latex-配置)
  * **快速且高质量地翻译一批文章的绪论部分并进行宣传**--(只翻译绪论容易控制翻译质量，而快速翻译大量文章有助于宣传)
-  - 质量控制需要专业讲师的更多帮助
-  - 需要开启大量翻译绪论的计划
-  - 这一步中也可以适当要求翻译者在绪论下提供用自己的话写的文章介绍(译者注).
+  * 质量控制需要专业讲师的更多帮助
+  * 需要开启大量翻译绪论的计划
+  * 这一步中也可以适当要求翻译者在绪论下提供用自己的话写的文章介绍(译者注).
  * **在wechat/QQ/sina等等渠道中对绪论翻译进行宣传**--(传播我们工作的成果)
   - 需要宣传团队同事的帮助
  * **通过QQ/wechat等渠道中调动学员来选择最想看到完整翻译的文章**--(为论文班的选材打好基础)
