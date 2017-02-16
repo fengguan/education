@@ -2,8 +2,8 @@
 
 ## 七月在线翻译组
   目录
- 1. [what is the goal of this translation project?](#翻译组希望达到的目标是什么)
- 2. [SWOT(strengths, weaknesses, opportunities, and threats)](#swotstrengths-weaknesses-opportunities-and-threats)
+ 1. [翻译组的目标是什么?](#翻译组希望达到的目标是什么)
+ 2. [强弱危机分析(SWOT)](#强弱危机分析SWOT)
  3. [Improvement ideas](#improvement-ideas)
 
 #### 翻译组希望达到的目标是什么?
@@ -12,7 +12,7 @@
  * prepare for Research Paper classes
  * Testing for class-project community
  
-#### SWOT(strengths, weaknesses, opportunities, and threats)
+#### 强弱危机分析(SWOT)
 * strengths: 
  1. group members are currently active and well organized. 
  2. We already have roadmap, and enough papers to continue. 
