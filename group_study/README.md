@@ -23,13 +23,15 @@
  3. not using standard publish venue, not good for broadcast. 
 * opportunities: 
  1. we may be able to put in source code of algorithms in those paper, and let students/instructors to test and play with(This probabily be the most interesting thing). 
- 2. GitHub as central publish venue.
+ 2. project/competition driven communities.
+ 3. GitHub as central publish venue.
 * threats: 
  1. group member may lose interests as time goes on, 
  2. if paper quality not good enough, may have negative effect.
+ 3. Other organizations are doing similar translation projects.
 
 #### Improvement ideas
- * **adding water print**--(simple change)
+ * **adding water print**--(simple change, not approved)
   - I have an instruction on group tutorials
  * **abstract only, fast translate strict quality contral, and broadcast**--(easier for quality contral and broadcast and avoid negative effect of bad translations)
   - strict quality contral, need help from professional instructors, i.e. Han and others
