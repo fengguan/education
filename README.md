@@ -12,3 +12,4 @@ I want to start reading/interpreting a series of classic results from:
 * quantum information(Shore, Preskill)
 * foundation of mathematics(Rusell, Wittgenstein)
 * basic quantum mechanics(Dirac)
+* QFT()
