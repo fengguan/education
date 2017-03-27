@@ -1,5 +1,5 @@
 
-##矩阵论与凸优化
+## 矩阵论与凸优化
 #### -- 抽象与直观的相互作用：用几何的方法理解代数，从数学的角度解释算法
 
 * Matrix theory part: a complete training set of word and paper topic.
@@ -27,6 +27,7 @@
 5. 凸优化进阶：
  * 理论：优化问题的对偶问题，KKT条件
  * 应用：优化问题举例
+ * http://www.cvxpy.org/en/latest/
 
 6. 凸优化在机器学习中的应用：
  * 应用1：SVM简介
