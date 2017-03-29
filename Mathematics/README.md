@@ -5,6 +5,7 @@ Mathematics education have different levels, each level may have it's own goals 
  * General Mathematics
  * middle/high school math
  * college math
+  - [njwildberger lectures](https://www.youtube.com/user/njwildberger)
  * math research
  
 ## resources
