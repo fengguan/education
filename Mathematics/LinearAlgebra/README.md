@@ -1,3 +1,7 @@
+# Linear Algebra
+
+## Essence of Linear Algebra
+* Essence of Linear Algebra is classification.(standard forms)
 
 ## 矩阵论与凸优化
 #### -- 抽象与直观的相互作用：用几何的方法理解代数，从数学的角度解释算法
