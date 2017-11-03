@@ -4,4 +4,5 @@ Hinton, Geoffrey E., Simon Osindero, and Yee-Whye Teh. "A fast learning algorith
 * representation arbitrary distributions (Boltzmann machine & Ising model)
 * Training of this model (layer by layer)
   * difficulty in training Boltzmann machine directly.
+    * intractable partition function
 * applications: auto-encoder  
