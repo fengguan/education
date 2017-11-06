@@ -17,6 +17,7 @@ Hinton, Geoffrey E., Simon Osindero, and Yee-Whye Teh. "A fast learning algorith
       * [Bengio, On Training Deep Boltzmann Machines (2012)](https://arxiv.org/pdf/1203.4416.pdf)
       * [Bengio, Joint Training of Deep Boltzmann Machines for Classification (2013)](https://arxiv.org/pdf/1301.3568.pdf)
       * [Hinton, An Efficient Learning Procedure for Deep Boltzmann Machines(2012)](http://www.utstat.toronto.edu/~rsalakhu/papers/neco_DBM.pdf)
+      * [Multi-Prediction Deep Boltzmann Machines](http://swoh.web.engr.illinois.edu/courses/IE598/handout/fall2016_slide3.pdf)
 
   * relation between: 
     * Boltzmann machine, 
