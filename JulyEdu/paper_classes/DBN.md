@@ -16,6 +16,8 @@ Hinton, Geoffrey E., Simon Osindero, and Yee-Whye Teh. "A fast learning algorith
       * MCMC method
       * [Bengio, On Training Deep Boltzmann Machines (2012)](https://arxiv.org/pdf/1203.4416.pdf)
         * A key point of departure from the RBM is that the posterior distribution over the hidden units (given the visibles) is no longer tractable, due to the interactions between the hidden units.
+        * Question: how is this related to the fact that Ising model is difficult to solve.
+          * Ising model is difficult because that particals are interact with each other, that is why mean field method can simplify this model. For Deep Boltzmann machine, the difficulty comes from the fact that hidden units are not directly determined by visible units, and they can affect visible units. (Can we consider visibal units as boundary conditions in Ising model?)
       * [Bengio, Joint Training of Deep Boltzmann Machines for Classification (2013)](https://arxiv.org/pdf/1301.3568.pdf)
       * [Hinton, Deep Boltzmann Machines](http://proceedings.mlr.press/v5/salakhutdinov09a/salakhutdinov09a.pdf)
       * [Hinton, An Efficient Learning Procedure for Deep Boltzmann Machines(2012)](http://www.utstat.toronto.edu/~rsalakhu/papers/neco_DBM.pdf)
