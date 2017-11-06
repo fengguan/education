@@ -15,10 +15,13 @@ Hinton, Geoffrey E., Simon Osindero, and Yee-Whye Teh. "A fast learning algorith
     * intractible inference:
       * MCMC method
       * [Bengio, On Training Deep Boltzmann Machines (2012)](https://arxiv.org/pdf/1203.4416.pdf)
+        * A key point of departure from the RBM is that the posterior distribution over the hidden units (given the visibles) is no longer tractable, due to the interactions between the hidden units.
       * [Bengio, Joint Training of Deep Boltzmann Machines for Classification (2013)](https://arxiv.org/pdf/1301.3568.pdf)
-      * [Hinton, An Efficient Learning Procedure for Deep Boltzmann Machines(2012)](http://www.utstat.toronto.edu/~rsalakhu/papers/neco_DBM.pdf)
-      * [Multi-Prediction Deep Boltzmann Machines](http://swoh.web.engr.illinois.edu/courses/IE598/handout/fall2016_slide3.pdf)
-
+      * [Hinton, Deep Boltzmann Machines](http://proceedings.mlr.press/v5/salakhutdinov09a/salakhutdinov09a.pdf)
+      * [Hinton, An Efficient Learning Procedure for Deep Boltzmann Machines(2012)](http://www.utstat.toronto.edu/~rsalakhu/papers/neco_DBM.pdf)
+      * [GoodFellow, Bengio, Multi-Prediction Deep Boltzmann Machines(PPT)](http://swoh.web.engr.illinois.edu/courses/IE598/handout/fall2016_slide3.pdf)
+      * [GoodFellow, Bengio, Multi-Prediction Deep Boltzmann Machines(Paper)](https://papers.nips.cc/paper/5024-multi-prediction-deep-boltzmann-machines.pdf)
+      
   * relation between: 
     * Boltzmann machine, 
     * deep believe network, 
