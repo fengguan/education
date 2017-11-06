@@ -20,7 +20,7 @@ Hinton, Geoffrey E., Simon Osindero, and Yee-Whye Teh. "A fast learning algorith
           * Ising model is difficult because that particals are interact with each other, that is why mean field method can simplify this model. For Deep Boltzmann machine, the difficulty comes from the fact that hidden units are not directly determined by visible units, and they can affect visible units. (Can we consider visibal units as boundary conditions in Ising model?)
       * [Bengio, Joint Training of Deep Boltzmann Machines for Classification (2013)](https://arxiv.org/pdf/1301.3568.pdf)
       * [Hinton, Deep Boltzmann Machines](http://proceedings.mlr.press/v5/salakhutdinov09a/salakhutdinov09a.pdf)
-      * [Hinton, An Efficient Learning Procedure for Deep Boltzmann Machines(2012)](http://www.utstat.toronto.edu/~rsalakhu/papers/neco_DBM.pdf)
+      * [Hinton, An Efficient Learning Procedure for Deep Boltzmann Machines(2012)](http://www.utstat.toronto.edu/~rsalakhu/papers/neco_DBM.pdf)
       * [GoodFellow, Bengio, Multi-Prediction Deep Boltzmann Machines(PPT)](http://swoh.web.engr.illinois.edu/courses/IE598/handout/fall2016_slide3.pdf)
       * [GoodFellow, Bengio, Multi-Prediction Deep Boltzmann Machines(Paper)](https://papers.nips.cc/paper/5024-multi-prediction-deep-boltzmann-machines.pdf)
       
