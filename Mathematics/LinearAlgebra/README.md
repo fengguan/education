@@ -36,3 +36,8 @@
 6. 凸优化在机器学习中的应用：
  * 应用1：SVM简介
  * 应用2：压缩感知与图像处理
+
+### fixed point theorem
+* Google's searching method
+* PROFESSOR LLOYD SHAPLEY's work
+
