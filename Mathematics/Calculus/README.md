@@ -10,6 +10,3 @@
 * conjugate gradient
 * Quasi-Newton methods
 
-### fixed point theorem
-* Google's searching method
-* PROFESSOR LLOYD SHAPLEY's work
