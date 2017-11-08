@@ -7,3 +7,5 @@
 ### regulariation & robustness
 * compress sensing and image processing
 
+### SVM as a optimization problem
+* Kernel trick
