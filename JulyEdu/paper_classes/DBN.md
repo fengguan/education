@@ -25,9 +25,19 @@ Hinton, Geoffrey E., Simon Osindero, and Yee-Whye Teh. "A fast learning algorith
       * [GoodFellow, Bengio, Multi-Prediction Deep Boltzmann Machines(Paper)](https://papers.nips.cc/paper/5024-multi-prediction-deep-boltzmann-machines.pdf)
       
   * relation between: 
+    * believe network
     * Boltzmann machine, 
     * deep believe network, 
     * restricted boltzmann machine, 
     * deep boltzmann machine, 
     * deep nueron network.
+  * wake sleep algorithm & explain away
+  
 * applications: auto-encoder  
+
+* 文章解读：
+  * [DBN 的理解](http://blog.sciencenet.cn/blog-110554-889016.html)
+  * [Explaining away理解](http://blog.sciencenet.cn/blog-110554-889475.html)
+  * [Complementary Prior](https://www.douban.com/note/344374111/)
+  * [翻译](https://wenku.baidu.com/view/4fbe320db14e852459fb5740.html?re=view)
+  * [paper presentation PPT](http://www.cs.purdue.edu/homes/alanqi/Courses/ML-08/Deep_Belief_nets.pptx)
