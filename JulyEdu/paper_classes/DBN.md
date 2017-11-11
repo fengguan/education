@@ -1,5 +1,6 @@
 Hinton, Geoffrey E., Simon Osindero, and Yee-Whye Teh. "A fast learning algorithm for deep belief nets." Neural computation 18.7 (2006): 1527-1554. [pdf](http://www.cs.toronto.edu/~hinton/absps/ncfast.pdf) (Deep Learning Eve)
 
+* EM algorithm and latent variable
 * Boltzmann machine & Ising model
   * phase transition
   * solve an Ising model:
@@ -30,8 +31,8 @@ Hinton, Geoffrey E., Simon Osindero, and Yee-Whye Teh. "A fast learning algorith
     * deep believe network, 
     * restricted boltzmann machine, 
     * deep boltzmann machine, 
-    * deep nueron network.
   * wake sleep algorithm & explain away
+  * stack of RBM
   
 * applications: auto-encoder  
 
