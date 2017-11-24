@@ -12,3 +12,4 @@
   
 ## implementing
  * [Building a deeplearning machine (physical or remote)](https://github.com/fengguan/research/blob/master/MachineLearning/DeepLearning/resources.md#building-a-deeplearning-machine-physical-or-remote)
+ * [Hello-world-rnn](https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767)
