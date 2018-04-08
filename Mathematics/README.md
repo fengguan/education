@@ -12,5 +12,5 @@ Mathematics education have different levels, each level may have it's own goals 
  * books
    * [The Princeton Companion to Mathematics](https://isidore.co/calibre/get/pdf/4662)
  * website
-   * [Interactive Mathematics Miscellany and Puzzles](https://www.cut-the-knot.org/)
+   * 特别棒的[Cut-the-Knot: Interactive Mathematics Miscellany and Puzzles](https://www.cut-the-knot.org/)
  * communities
