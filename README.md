@@ -17,3 +17,6 @@ I want to start reading/interpreting a series of classic results from:
 ## 管中窥豹
 what is the relationship between a problem with 200 years history and a mathematics theory araised from last centry?
 What is that mathematician doing!
+
+Yes, you need to be smart, you need to be smart enought to be interested. And give the rest to your interest.
+Young people looks for meaningful things to do, while grown ups looks for meanings for the things they are doing.
