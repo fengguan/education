@@ -13,6 +13,7 @@
   * How to measure how long it will take to complete one event.
     * Let's look at more event counts
   * Is there any relation between these two things?  
+  * Making some diagram for the measure? 
 ## Generalization
 * Example1:
   * measure is to compare two different unit
